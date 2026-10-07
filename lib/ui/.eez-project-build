@@ -1,0 +1,33 @@
+{
+  "files": [
+    "actions.h",
+    "fonts.h",
+    "images.c",
+    "images.h",
+    "screens.c",
+    "screens.h",
+    "structs.h",
+    "styles.c",
+    "styles.h",
+    "ui.c",
+    "ui.h",
+    "ui_image_background_home.c",
+    "ui_image_check_enginge.c",
+    "ui_image_check_enginge_off.c",
+    "ui_image_check_oil.c",
+    "ui_image_gas.c",
+    "ui_image_gas_avg.c",
+    "ui_image_gas_full.c",
+    "ui_image_gas_low.c",
+    "ui_image_headlight.c",
+    "ui_image_headlight_off.c",
+    "ui_image_left_arrow.c",
+    "ui_image_left_off.c",
+    "ui_image_oil_off.c",
+    "ui_image_right_arrow.c",
+    "ui_image_right_off.c",
+    "ui_image_temp.c",
+    "ui_image_temp_off.c",
+    "vars.h"
+  ]
+}
